@@ -1,0 +1,9 @@
+@import './_reset';
+
+body {
+  background: fixed #080808 url('./assets/img/bg.jpg') 50% 50% no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-family: sans-serif;
+  letter-spacing: 0.03em;
+}
